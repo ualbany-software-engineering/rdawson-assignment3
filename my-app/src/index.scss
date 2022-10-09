@@ -3,5 +3,6 @@ $primary: #900;
 $enable-shadows: true;
 $prefix: "mo-";
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 // Then import Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
