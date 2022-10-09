@@ -16,7 +16,7 @@ function Home() {
                 Ryan Dawson
             </h1>
             <p className="bio">
-                Lorem ipsem
+                My name is Ryan Dawson and I am a Computer Science major. This is my biography
             </p>
             </div>
         </div>
